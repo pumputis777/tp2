@@ -3,7 +3,7 @@
 using namespace std;
 int main()
 {
-     // Declarar la variable para el número ingresado
+
     int numero; // Declaro una variable
 
     // Solicitar al usuario que ingrese un número entero
