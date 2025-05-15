@@ -3,11 +3,11 @@
 using namespace std;
 int main()
 {
-    float A;
-    float B;
-    float C;
+    float A; // declaro la primera variable
+    float B; // declaro la segunda variable
+    float C; // declaro la tercera variable
     
-    cout << "este programa ve cual es el mayor y cual el menor de 3 numeros" <<endl;
+    cout << "este programa ve cual es el mayor y cual el menor de 3 numeros" <<endl; //le indica al usuario lo que hace el programa
     cout << "ingrese el primer numero :";
     cin >> A;
     cout << "ingrese el segundo numero :";
