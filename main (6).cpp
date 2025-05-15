@@ -6,6 +6,7 @@ int main()
 
     int numero; // Declaro una variable
 
+    cout << "este programa ve si un numero es positivo, negativo o nulo"; // le indica al usuario lo que hace el programa
     // Solicitar al usuario que ingrese un número entero
     cout << "Ingrese un número entero: ";
     cin >> numero;
