@@ -7,6 +7,7 @@ int main()
     float num1; // Declaro la primera variable
     float num2; // Declaro la segunda variable
 
+    cout << "este programa suma los dos numeros si el primero es mayor, y si no los resta"; // le indica al usuario lo que hace el programa
     // Solicita la carga de dos números
     cout << "Ingrese el primer número: ";
     cin >> num1;
